@@ -36,3 +36,4 @@ for(int i = 0; i < input.Length; i++)
     }
 }
 Console.WriteLine($"Total: {totalValue}");
+Console.ReadKey();
